@@ -4,7 +4,7 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Scanner;
 
-public class Grades {
+public class Main {
 	public static void main(String[] args) {		
 		Class chosenClass = new Class();
 		Student chosenStudent = new Student();
